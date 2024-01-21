@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="productname">إسم المنتج</string>
+    <string name="productcode">كود المنتج</string>
+    <string name="preday">أدخل تنبيهك قبل اليوم</string>
+    <string name="select_hour">إختر الساعة</string>
+    <string name="complete_data_toast">يرجى استكمال البيانات الخاصة بك.</string>
+</resources>

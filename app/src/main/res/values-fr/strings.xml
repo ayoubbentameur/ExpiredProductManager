@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="productname">Nom du produit</string>
+    <string name="productcode">Code de produit</string>
+    <string name="preday">Entrez votre alerte d\'avant-jour</string>
+    <string name="select_hour">Sélectionnez l\'heure</string>
+    <string name="complete_data_toast">Veuillez compléter vos données.</string>
+
+
+</resources>

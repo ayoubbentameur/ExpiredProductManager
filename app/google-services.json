@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "367574693122",
+    "firebase_url": "https://superette-bozar-default-rtdb.firebaseio.com",
+    "project_id": "superette-bozar",
+    "storage_bucket": "superette-bozar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367574693122:android:e3cf146d1acc7d14babe1b",
+        "android_client_info": {
+          "package_name": "com.benayoub.superettebozar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367574693122-i05uulp50vh7k4bc7vd31r01gl34dc2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.benayoub.superettebozar",
+            "certificate_hash": "3260ccb2428dd768ad4c1d608fea766df53ec73f"
+          }
+        },
+        {
+          "client_id": "367574693122-gsmpqdm1mt9knjbj871lni73akidk70v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk9Gd0CrTKI0LhxHfyL__4Ax0RZpdw5rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367574693122-gsmpqdm1mt9knjbj871lni73akidk70v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
